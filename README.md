@@ -1,4 +1,4 @@
 # FirstRepo
-This is my first repository. 
+This is my first repository in github. 
 <br>
-Author- Janhavi Joshi
+Author: Janhavi Joshi
